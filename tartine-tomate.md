@@ -14,10 +14,10 @@ Ce sont des saveurs simples mais ultra efficaces.
 
 La tomate, je vous en parle souvent sur le blog, sa [saison](http://ma-cuisine-creative.com/cest-quand-la-saison), les abus de sa grande consommation, son goût d’antan que l’on recherche partout, celles du jardin de ma grand-mère qui ont tellement de goût que je ne réussis plus à en manger d’autres sans une pointe de déception.
 C’est le fruit le plus consommé au monde, oui c’est un fruit du point de vue botanique et le deuxième légume le plus consommé après la pomme de terre.
-Quelques 34kg par personne et par an en moyenne, dont 15kg environ en tomates fraîches, le reste en produits cuisinés.
+Quelques 34 kg par personne et par an en moyenne, dont 15kg environ en tomates fraîches, le reste en produits cuisinés.
 
 D’où vient la tomate ? Savez vous quelle est son histoire ?
-Comment est elle arrivée jusque dans votre assiette ?
+Comment est-elle arrivée jusque dans votre assiette ?
 
 La “tomalt“ de son nom original *Nahuatl*, langue aztèque, nous est ramené par les conquistadors des Amériques.
 Petit fruit, pas plus gros que la tomate cerise, rouge ou jaune, il est appelé “pomodoro“ pomme d’or ou pomme d’amour. 
