@@ -16,7 +16,7 @@ La tomate, je vous en parle souvent sur le blog, sa [saison](http://ma-cuisine-c
 C’est le fruit le plus consommé au monde, oui c’est un fruit du point de vue botanique et le deuxième légume le plus consommé après la pomme de terre.
 Quelques 34 kg par personne et par an en moyenne, dont 15kg environ en tomates fraîches, le reste en produits cuisinés.
 
-D’où vient la tomate ? Savez vous quelle est son histoire ?
+D’où vient la tomate ? Savez vous quelle est son histoire ?  
 Comment est-elle arrivée jusque dans votre assiette ?
 
 La “tomalt“ de son nom original *Nahuatl*, langue aztèque, nous est ramené par les conquistadors des Amériques.
