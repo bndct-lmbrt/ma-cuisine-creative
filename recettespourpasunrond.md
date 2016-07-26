@@ -82,11 +82,11 @@ Elles sont *riches en fibres, anti-oxydantes et très nutritives tout en apporta
 ### Le lait d’or:
 Une *boisson à base de curcuma qui a elle aussi mille et une vertus, anti inflammatoires, anti-cholestérol, anti-hépatique, anti-cancérigène*…
 ingrédients:
-*20 cl de lait d’amande ou lait de coco
-*1 cuil à café d’huile au choix
-*1/2 cuil à café de curcuma en poudre
-*1/4 cuil à café de poivre noir moulu
-*10g de gingembre frais râpé
+* 20 cl de lait d’amande ou lait de coco
+* 1 cuil à café d’huile au choix
+* 1/2 cuil à café de curcuma en poudre
+* 1/4 cuil à café de poivre noir moulu
+* 10g de gingembre frais râpé
 
 Faire revenir les ingrédients sans trop chauffer et ajouter un peu de miel pour le goût.
 
@@ -102,9 +102,9 @@ Pour parfumer des plats celles de citron, orange ou lavande peuvent apporter *un
 Si vous voulez des recettes avec ces alicaments, faites en part dans les commentaires. Et partagez vos astuces alimentaires pour une meilleure santé
 
 *crédits photo*:
-*Spry
-*Bruno Parmentier
-*Debra Solomon
-*Ina Todoran
-*Wikimedia commons
-*Carlos Lorenzo
+* Spry
+* Bruno Parmentier
+* Debra Solomon
+* Ina Todoran
+* Wikimedia commons
+* Carlos Lorenzo
