@@ -27,7 +27,7 @@ Je suis née dans une famille de « visages pâles », il n’y a pas eu beaucou
 Mes parents, grand-parents, frère, oncle… **ne supportant pas bien le soleil**, allergies, coups de soleil et étés passés en mode vampire, j’ai vécu les mêmes désagréments. Je me suis donc **résignée** à n’étaler que de la crème 50, rester à l’ombre des cocotiers et m’exposer le moins possible, sous peine de douleurs fulgurantes et dantesques.
 Mais aujourd’hui, je n’ai pas changé mon patrimoine génétique, cependant **je profite avec plaisir** des rayons du soleil et ma peau prend un léger teint doré.
 
-![soleil](img.soleil)
+![soleil](img/soleil)
 
 Comment est ce possible ?
 **Ce qui a changé c’est mon alimentation**. Je mange beaucoup plus de fruits et légumes. *Elle est plus équilibrée, plus de vitamines, de flavonoïdes, de vitamines, d’anti-oxydants et de bêta-carotènes*. Les fameux bêta-carotènes favorisent la production de mélanine, pigment qui donne sa couleur à la peau. On en trouve dans les carottes, les abricots, les épinards ou les baies de goji qui en sont bourrées.
@@ -44,17 +44,17 @@ Je le fais dès que j’ai un chat dans la gorge ou que j’ai pris froid, c’e
 
 ### Les tisanes
 
-![tisanes de violettes](img.violettes)
+![tisanes de violettes](img/violettes)
 
 Les fameuses tisanes de grand-mère, le *thym* et le *romarin* mais aussi la *citronnelle*,la *verveine* que j’affectionne en goût.
 Plus inattendu **les tisanes de queues de cerise**, elles permettent de perdre du poids, de nettoyer et de soigner certaines infections et celles de violettes sont anti-inflammatoires et relaxantes.
 Il y en a autant que de plantes ou presque, soyez curieux…
 
 ### Le kefir
-![graines de kefir](img.kefirfruits)
+![graines de kefir](img/kefirfruits)
 Qu’est ce que c’est ? Les grains de kefir sont des micro-organismes qui servent à créer *une boisson fermentée à base de fruits* (ou de lait). Cette boisson légèrement gazeuse et parfumée est considéré comme **un probiotique** et a des valeurs extraordinaires sur le système digestif.
 
-![graines de kefir](img.grainskefir)
+![graines de kefir](img/grainskefir)
 
 Mettez dans une bouteille en verre des grains de kefir (pour en obtenir il y a des groupes de partage sur Facebook, j’en donne aussi) l’équivalent d’un 1/2 verre a eau.
 Ajoutez 40g de sucre roux, une figue sèche que vous aurez ouvert en deux, un morceau de citron et 1l d’eau minérale.
@@ -77,7 +77,7 @@ Je fais tout simplement pousser mes graines germées dans un petit bocal en verr
 Les graines germées portent en elles toute l’énergie vitale de la plante donc sont *un concentré de minéraux, oligo-éléments, vitamines, enzymes, protéines, acides gras essentiels et acides aminés*.
 Elles sont *riches en fibres, anti-oxydantes et très nutritives tout en apportant peu de calories*.
 
-![graines germées](img.grainesgermées)
+![graines germées](img/grainesgermées)
 
 ### Le lait d’or:
 Une *boisson à base de curcuma qui a elle aussi mille et une vertus, anti inflammatoires, anti-cholestérol, anti-hépatique, anti-cancérigène*…
@@ -90,7 +90,7 @@ ingrédients:
 
 Faire revenir les ingrédients sans trop chauffer et ajouter un peu de miel pour le goût.
 
-![lait d'or](img.curcuma)
+![lait d'or](img/curcuma)
 
 ### Les huiles essentielles:
 je pourrais écrire un chapitre entier, il y en a des milliers avec des fonctions différentes.
