@@ -11,7 +11,7 @@ Quand on va dans un grand restaurant avec un grand chef, quand on regarde des é
 Si vous avez la chance d’avoir un *jardin potager*, vous avez peut-être déjà cette habitude de manger des aliments au goût authentique, mûris à point avec l’énergie des rayons du soleil, cueillis et préparés avec amour.
 Si ce n’est pas votre cas, il y a sûrement *près de chez vous un fournisseur de bons produits*. Même dans n’importe quel coin du monde, vous pourrez trouver de bons fruits. Sinon faites les pousser sur votre rebord de fenêtre ! 😉
 
-**Ingrédients**:
+#### Ingrédients:
 
 * 4 tartines de pain complet aux graines
 * 1 fromage de chèvre frais
@@ -21,7 +21,7 @@ Si ce n’est pas votre cas, il y a sûrement *près de chez vous un fournisseur
 * fleur de sel
 * baies roses
 
-**Recette**:
+#### Recette:
 
 Découpez les radis en rondelles dans le sens de la hauteur.
 Conservez un peu de vert, *le vert des radis est plein de vitamines et a un petit goût herbacé et croquant*.
