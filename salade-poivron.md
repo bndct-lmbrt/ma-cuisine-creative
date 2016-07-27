@@ -27,13 +27,13 @@ Ma mère refait toujours **les mêmes depuis 20 ou 30 ans** et ne s'en lasse pas
 Oui c'est facile, c'est rapide, c'est pratique mais cela ne vous prendra pas plus de temps de changer le basilic par de l'estragon.
 Vous pouvez aussi la tenter version extra avec des tomates de meilleure qualité, une mozzarella choisie avec votre fromager et des herbes que vous aurez fait pousser dans votre salon.
 
-Vous servez cette délicieuse salade en entrée et vous avez bien raison. Comme je l'explique dans l'article sur ![les meilleures sauces du monde](http://ma-cuisine-creative.com/comment-realiser-la-meilleure-sauce-du-monde/), **les légumes crus et les fruits sont mieux digérés en début de repas**.
+Vous servez cette délicieuse salade en entrée et vous avez bien raison. Comme je l'explique dans l'article sur [les meilleures sauces du monde](http://ma-cuisine-creative.com/comment-realiser-la-meilleure-sauce-du-monde/), **les légumes crus et les fruits sont mieux digérés en début de repas**.
 
 **Mais pourquoi la cantonner à votre entrée? Faites-en le centre de l'attention, la reine du bal, le coeur de votre alimentation.**
 
 Elle vous procure tout ce qu'il faut pour avoir la pêche: **vitamines, minéraux et apport en eau**.
 Et pour être rempli, remplissez vous, mangez jusqu'à satiété. *Les céréales, les légumineuses, les oléagineux sont de merveilleux coupe-faim naturels.*
-Si vous avez lu mon dernier article sur ![les menus pour une cuisine santé et plaisir](http://ma-cuisine-creative.com/quel-menu-pour-une-cuisine-sante-et-plaisir/), vous aurez compris que **ce qui vous remplit n'est pas que dans la quantité ou l'ingrédient mais dans la façon de l'appréhender et de le manger.**
+Si vous avez lu mon dernier article sur [les menus pour une cuisine santé et plaisir](http://ma-cuisine-creative.com/quel-menu-pour-une-cuisine-sante-et-plaisir/), vous aurez compris que **ce qui vous remplit n'est pas que dans la quantité ou l'ingrédient mais dans la façon de l'appréhender et de le manger.**
 *Remplissez vous aussi du beau paysage dans lequel vous le dégustez, des belles personnes avec qui vous le partagez. Et si vous êtes seuls au fond d'une grotte sordide, savourez la chance d'avoir pu faire venir votre repas jusque là* !!!
 
 L'été approche, si si je vous assure, je déguste mes 1ères belles cerises et mes tout 1ers abricots de Provence.
