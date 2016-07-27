@@ -27,7 +27,7 @@ Découpez les radis en rondelles dans le sens de la hauteur.
 Conservez un peu de vert, *le vert des radis est plein de vitamines et a un petit goût herbacé et croquant*.
 (**Gardez les fanes** pour en faire un houmous, remplacez les orties par les fanes de radis dans cette recette de houmous aux orties)
 Prélevez les suprêmes de pamplemousse.
-(Si vous ne savez pas ce que sont ![les suprêmes de pamplemousse](http://ma-cuisine-creative.com/glossaire/), allez voir dans le glossaire.)
+(Si vous ne savez pas ce que sont [les suprêmes de pamplemousse](http://ma-cuisine-creative.com/glossaire/), allez voir dans le glossaire.)
 Coupez les tranches de pain.
 Déposez le fromage de chèvre sans l’écraser.
 Disposez gracieusement les rondelles de radis, les morceaux de pamplemousse puis les pousses de salade.
