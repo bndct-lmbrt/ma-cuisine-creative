@@ -1,6 +1,8 @@
 # Salade de poivron surprise
 
-## Créez la surprise en remplissant un légume avec une salade gourmande.
+## Créez la surprise en remplissant un légume avec une salade !
+
+![recette de poivron surprise](img/imgGrande/poivron-surprise.jpg)
 
 Pourquoi la plupart des gens disent que manger une salade ne les remplit pas, qu'**ils ont encore faim après** ?
 Déjà SALADE, pour certains, signifie salade !
@@ -55,7 +57,7 @@ Vous répondez à des *automatismes liés à votre éducation, des traumatismes 
 
 * 1ère étape: **ne pas culpabiliser** (ça fait grossir ;) )
 
-* 2ème étape: un exercice à faire petit à petit (découvert dans le livre La Nutri-émotion de Nassrine Reza)
+* 2ème étape: un exercice à faire petit à petit (découvert dans le livre *La Nutri-émotion* de Nassrine Reza)
 **écouter sa respiration avant de manger** quelque chose ou en choisissant un ingrédient
 *La respiration ventrale indique la justesse*, le calme. *La respiration des épaules indique que ce n'est pas ce dont notre corps a besoin*.
 

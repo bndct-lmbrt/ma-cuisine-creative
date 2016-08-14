@@ -2,7 +2,7 @@
 
 ## Des ingrédients simples, sains, croquants et fondants pour plus de plaisir et de fraîcheur
 
-![tartines radis pamplemousse](img/radis-pamplemousse.jpg)
+![tartines radis pamplemousse](img/imgGrande/tartine-radis.jpg)
 
 Il n’y a rien de plus rapide à préparer. Ce qui va créer la surprise ce sont **les associations d’éléments inattendus**, les textures, le crémeux.
 Pour une recette simple, on choisit de **bons produits**.

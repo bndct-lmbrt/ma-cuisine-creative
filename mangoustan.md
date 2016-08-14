@@ -1,0 +1,8 @@
+Mangoustan, fruit des dieux
+
+
+mangoustan
+
+Je prends un couteau affûté comme un rasoir, je découpe délicatement cette coque, prune, foncée, légèrement mordorée qui ressemble à une petite pomme oubliée. Je tranche jusqu’à découvrir, sans la toucher, une chair grasse et laiteuse. Les petits quartiers du mangoustan brillent d’être révélé au grand jour et à la gourmandise des palais salivant d’impatience. Je détache un léger morceau du fruit, qui se laisse faire, et je sens sur ma langue son aspect suave et sucré, légèrement acidulé. En croquant je découvre sa texture épaisse et fondante qui s’apparenterait à celle du litchi. La comparaison s’arrête net car le parfum qui atteint mes papilles ne tolère aucune parenté gustative, son parfum est unique. Ce petit bout d’exotisme me fait tourner la tête et me pousse à recommencer ce rituel inoubliable. Il porte bien son nom celui que l’on nomme « le fruit des dieux ». car il vous conduit tout droit au paradis.
+
+Outre son goût, on lui prête toutes les vertus, il serait très riche en anti-oxydants, excellent pour tous types d’affections et contiendrait des xanthones qui combattent les cellules cancéreuses. Ces agents se trouveraient dans la peau, le péricarpe, la partie amère. Aucune étude scientifique d’envergure n’ayant appuyé ces thèses, vous pouvez le tester pour son goût raffiné et délicat. Car on le sait il n’y a rien de meilleur pour la santé du corps et de l’esprit que de se faire plaisir.

@@ -1,6 +1,6 @@
 # Tartines de l’été: épisode 1 le Japon
 
- ![Tartine japonaise](img/tartine-japon.jpg)
+ ![Tartine japonaise](img/imgGrande/tartine-japon.jpg)
 
 ## Le nouveau feuilleton de l’été, des repas plaisir et santé, faciles à réaliser
 
