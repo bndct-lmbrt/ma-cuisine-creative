@@ -1,7 +1,9 @@
 ---
-title: "Tartines de l’été : rouge tomate"
-description: "les incontournables pour l’apéro: les tartines saines et gourmandes"
-image_url: https://raw.githubusercontent.com/bndct-lmbrt/ma-cuisine-creative/master/img/tartine-tomates.jpg
+title: 'Tartines de l’été : rouge tomate'
+description: 'les incontournables pour l’apéro: les tartines saines et gourmandes'
+image_url: >-
+  https://raw.githubusercontent.com/bndct-lmbrt/ma-cuisine-creative/master/img/tartine-tomates.jpg
+published: true
 ---
 
 ## Les incontournables pour l’apéro: les tartines saines et gourmandes
@@ -19,7 +21,6 @@ Quelques 34 kg par personne et par an en moyenne, dont 15kg environ en tomates f
 D’où vient la tomate ? Savez vous quelle est son histoire ?  
 Comment est-elle arrivée jusque dans votre assiette ?
 
-La “tomalt“ de son nom original *Nahuatl*, langue aztèque, nous est ramené par les conquistadors des Amériques.
+La “tomalt“ de son nom original Nahuatl, langue aztèque, nous est ramené par les conquistadors des Amériques.
 Petit fruit, pas plus gros que la tomate cerise, rouge ou jaune, il est appelé “pomodoro“ pomme d’or ou pomme d’amour. 
 Il est prohibé dans la consommation culinaire car apparenté à la mandragore, une cousine de la famille des solanacées, très toxique à haute dose et pourtant aux grandes vertus médicinales.
- 
